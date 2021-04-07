@@ -1,0 +1,51 @@
+@media screen{
+*{ margin: 0; padding: 0; border: 0; font-size: 100%; }
+.my-container {
+    background-color: #B8A0F8;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding:10px;
+    margin:10px;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    position: static;
+    display: block;
+    border-radius: 10px;
+    border-style: solid;
+    border-color: #0F1C3A;
+    border-collapse: separate;
+    border-spacing: 3px 3px;
+}
+.bulk.text {
+    color: #403E3E;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-style: italic;
+    font-variant: normal;
+    font-weight: lighter;
+    font-size: large;
+    padding: 10px;
+    text-align: center;
+    background-color: #F9EDAB;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+#mycontainertwo {
+    width: auto;
+    color: #FFFFFF;
+    font-family:'Roboto', sans-serif;
+    border-radius: 10px;
+    background-color: #0F1C3A;
+    border-color: #B8A0F8;
+    padding: 10px;
+    margin: 10px;
+    border-style: dashed;
+    text-align: left;
+    text-indent: 6px;
+    background-image: url(../images/sai3.jpg);
+}
+
+
+
+
+}
